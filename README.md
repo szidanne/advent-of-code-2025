@@ -1,9 +1,9 @@
 # Advent of Code 2025
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)](https://adventofcode.com/2025)
 ![Status](https://img.shields.io/badge/Progress-Ongoing-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-2%2F12-purple.svg)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-3%2F12-purple.svg)
 
 This repository contains my solutions to **Advent of Code 2025**, written in Python.  
 

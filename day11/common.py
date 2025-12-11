@@ -12,7 +12,7 @@ dac: fff
 fff: ggg hhh
 ggg: out
 hhh: out
-""".strip()
+"""
 
 
 def build_graph(data):

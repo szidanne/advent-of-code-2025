@@ -12,7 +12,7 @@ L1
 L99
 R14
 L82
-""".strip()
+"""
 
 
 def parse_move(line):

@@ -1,0 +1,32 @@
+# python cache & build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+dist/
+*.egg
+
+# virtual environments
+venv/
+.env/
+.envrc
+
+# editor / OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# input files pulled using fetch_input.py
+day*_input.txt
+input.txt
+
+# local scripts
+fetch_input.py
+
+# wrappers or scripts that might include tokens
+run.sh
+local_*.sh
+secret_*.sh

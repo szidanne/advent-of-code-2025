@@ -1,6 +1,6 @@
 # Advent of Code 2025 — Day 2  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)](https://adventofcode.com/2025/day/1)
+[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)](https://adventofcode.com/2025/day/2)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 Solutions for **Day 2** of Advent of Code 2025.  

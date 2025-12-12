@@ -1,6 +1,6 @@
 # Advent of Code 2025 — Day 7
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)](https://adventofcode.com/2025/day/7)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 Solutions for **Day 7** of Advent of Code 2025.

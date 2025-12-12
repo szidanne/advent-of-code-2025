@@ -31,7 +31,15 @@ advent-of-code-2025
 # Requirements
 
 - Python **3.10+**
-- Standard library usage only (no external dependencies)
+- Most solutions use the Python standard library only
+- Some days require optional third-party libraries (day 10):
+  - **z3-solver** (for SMT/ILP-style solving on specific puzzles)
+
+Install optional dependencies only if you hit an import error:
+
+```bash
+pip install z3-solver
+```
 
 # Running Solutions
 

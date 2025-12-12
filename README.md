@@ -3,7 +3,7 @@
 [![AoC](https://img.shields.io/badge/Advent%20of%20Code-2025-red.svg)](https://adventofcode.com/2025)
 ![Status](https://img.shields.io/badge/Progress-Ongoing-brightgreen.svg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-3%2F12-purple.svg)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-5%2F12-purple.svg)
 
 This repository contains my solutions to **Advent of Code 2025**, written in Python.  
 

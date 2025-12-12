@@ -1,5 +1,11 @@
 import sys
 
+# added for large string to int conversions (problem initially seen in day 6)
+try:
+    sys.set_int_max_str_digits(0)
+except AttributeError:
+    pass  # python < 3.11
+
 
 def read_input(splitlines=True):
     """
